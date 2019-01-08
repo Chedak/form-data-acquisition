@@ -48,6 +48,13 @@ a {
   text-align: center;
 }
 
+.main h1{
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing:.45em;
+  font-size: 35px;
+}
+
 .form-container {
   padding: 30px;
   background-color: #fff;
