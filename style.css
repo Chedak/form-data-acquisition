@@ -131,6 +131,7 @@ footer{
 }
 .footer-nav{
   list-style: none;
+  margin-bottom: 4px;
 
 }
 
@@ -141,4 +142,9 @@ footer{
 
 .footer-nav li a{
     color: #505050;
+}
+
+.footer-details{
+  padding-top: 0px;
+  margin-top: 0px;
 }
