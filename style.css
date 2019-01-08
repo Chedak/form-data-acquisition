@@ -101,3 +101,22 @@ a {
   font-size: 10px;
   color: #8d9096;
 }
+footer{
+  color: #505050;
+  font-size: 12px;
+  text-align: center;
+
+}
+.footer-nav{
+  list-style: none;
+
+}
+
+.footer-nav li{
+  display: inline-block;
+  margin: 0 4px;
+}
+
+.footer-nav li a{
+    color: #505050;
+}
